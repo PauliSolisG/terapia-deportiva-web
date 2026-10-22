@@ -1,6 +1,6 @@
 # Terapia Deportiva ⚽
 
-Participé en el desarrollo y/o la implementación del sitio web [TerapiaDeportiva.cl](https://terapiadeportiva.cl/), una plataforma digital dedicada al contenido deportivo.
+Participé en el desarrollo del sitio web [TerapiaDeportiva.cl](https://terapiadeportiva.cl/), una plataforma digital dedicada al contenido deportivo.
 
 ## Tecnologías utilizadas
 - WordPress
